@@ -10,4 +10,4 @@ Before running the code install packages by executing the command:
 
 ## Licence
 
-Spam-bayes is licensed under the terms of the Apache v2.0 licence.
+Student-performance is licensed under the terms of the Apache v2.0 licence.
